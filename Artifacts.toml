@@ -1,0 +1,10 @@
+[[WrapIt]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d3ba3a0975840dfb3b616aa9d9498008cfd4bed8"
+libc = "glibc"
+os = "linux"
+
+    [[WrapIt.download]]
+    sha256 = "8401900e37437396bdb185c5c5402430fdae18a7337def1ec69928441c41e6ec"
+    url = "https://github.com/grasph/WrapIt_jll/releases/download/WrapIt-v1.4.0+1/WrapIt.v1.4.0.x86_64-linux-gnu-cxx11.tar.gz"
