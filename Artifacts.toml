@@ -9,29 +9,29 @@ os = "linux"
     url = "https://github.com/grasph/WrapIt_jll/releases/download/WrapIt-v1.4.0+2/WrapIt.v1.4.0.x86_64-linux-musl.tar.gz"
 [[WrapIt]]
 arch = "aarch64"
-git-tree-sha1 = "2488c2d2c8e6bb8ee0f441e5ab52972f98f3e348"
+git-tree-sha1 = "15cb5371237788ecd6030aa7760c880d77ed30af"
 os = "macos"
 
     [[WrapIt.download]]
-    sha256 = "b2c9a77f9e5cf39d37deab8979abb20ff343f19cb6fcc73bc5bd2eb1606d45be"
+    sha256 = "4cbdc46b6fd3fb41b446220538b38095a45ebadfe91edad99b8483da86778210"
     url = "https://github.com/grasph/WrapIt_jll/releases/download/WrapIt-v1.5.0+1/WrapIt.v1.5.0.aarch64-apple-darwin.tar.gz"
 [[WrapIt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "759adc0080d11a23e0a1aebafb2ece28e57951bf"
+git-tree-sha1 = "4bcab3e2c8fe9edbc426caa74e191f350e69f136"
 libc = "glibc"
 os = "linux"
 
     [[WrapIt.download]]
-    sha256 = "d65ab9a2d8787dbb318cd9679b67693322c772977b753e11164ab3ead6c7ea43"
+    sha256 = "319d155f49634b44a9eec3cf768342b3e0b5b518e4bdc9e32193bc1ebc772016"
     url = "https://github.com/grasph/WrapIt_jll/releases/download/WrapIt-v1.5.0+1/WrapIt.v1.5.0.x86_64-linux-gnu-cxx11.tar.gz"
 [[WrapIt]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0528890414ce1229f13d87cf8cfea89f4962a83e"
+git-tree-sha1 = "271d98600621bad0683a498a03050dfe0d18e1e1"
 libc = "musl"
 os = "linux"
 
     [[WrapIt.download]]
-    sha256 = "5f1e93f808c937702f9268a64aa06d8aafa94fd481f30020ef4fc87fb25d5979"
+    sha256 = "448ca592b89e36cea8eea5c2b085fe14f19808673f9ebb49eac90b1a94fc07fd"
     url = "https://github.com/grasph/WrapIt_jll/releases/download/WrapIt-v1.5.0+1/WrapIt.v1.5.0.x86_64-linux-musl-cxx11.tar.gz"
